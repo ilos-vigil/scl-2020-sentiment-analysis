@@ -34,7 +34,7 @@ This is source code/solution for 12th place (top 4%) in Private LB with score 0.
 | 01_clean.ipynb      | https://www.kaggle.com/ilosvigil/scl-2020-6-clean-text?scriptVersionId=39820359                  | Kaggle CPU  | Perform case lower/upper, stemming/lematization and tokenization                                                         |
 | 02a_ktrain.ipynb    | https://www.kaggle.com/ilosvigil/scl-2020-6-ktrain?scriptVersionId=39927650                      | Kaggle GPU  | Fine-tuning `DistilRoBERTa-base` using [ktrain](https://github.com/amaiya/ktrain) library                                |
 | 02b_lightgbm.ipynb  | https://www.kaggle.com/ilosvigil/scl-2020-6-lightgbm?scriptVersionId=39890235                    | Kaggle CPU  | Create Gradient Boosting model with [LightGBM](https://github.com/Microsoft/LightGBM) library & 3-gram TF-IDF as feature |
-| 02c_sklearn.ipynb   | https://www.kaggle.com/ilosvigil/scl-2020-6-lightgbm?scriptVersionId=39890235                    | Kaggle CPU  | Create Naive Bayes model with Scikit-Learn library & 3-gram TF-IDF as feature                                            |
+| 02c_sklearn.ipynb   | https://www.kaggle.com/ilosvigil/scl-2020-6-scikit-learn?scriptVersionId=39807001                | Kaggle CPU  | Create Naive Bayes model with Scikit-Learn library & 3-gram TF-IDF as feature                                            |
 
 
 ## Dataset
